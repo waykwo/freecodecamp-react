@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 class Fruits extends React.Component {
   constructor(props) {
     super(props);

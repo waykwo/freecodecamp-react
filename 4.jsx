@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const JSX = (
   <div>
     <h1>Hello World</h1>

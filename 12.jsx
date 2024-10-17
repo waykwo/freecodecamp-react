@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 class TypesOfFood extends React.Component {
   constructor(props) {
     super(props);
@@ -13,7 +14,7 @@ class TypesOfFood extends React.Component {
       </div>
     );
   }
-};
+}
 
 // Change code below this line
-ReactDOM.render(<TypesOfFood />, document.getElementById("challenge-node"))
+ReactDOM.render(<TypesOfFood />, document.getElementById("challenge-node"));
